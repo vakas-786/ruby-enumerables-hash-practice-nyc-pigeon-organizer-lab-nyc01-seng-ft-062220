@@ -11,6 +11,5 @@ def nyc_pigeon_organizer(data)
         new_data[name][key].push(attributes_key.to_s)
     end
   end
-    new_data
 end
 end
