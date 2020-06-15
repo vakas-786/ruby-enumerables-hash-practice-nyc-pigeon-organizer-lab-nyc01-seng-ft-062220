@@ -6,6 +6,7 @@ def nyc_pigeon_organizer(data)
           new_data[name] = {}
         end
     end
+  end
     new_data
 end
 end
